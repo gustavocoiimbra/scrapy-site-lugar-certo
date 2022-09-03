@@ -8,7 +8,4 @@ from scrapy import Item
 
 
 class LugarCertoItem(Item):
-    titulo = scrapy.Field()
-    endereco = scrapy.Field()
-    preco = scrapy.Field()
-    anunciante = scrapy.Field()
+    pass
